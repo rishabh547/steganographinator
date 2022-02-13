@@ -43,13 +43,13 @@ https://user-images.githubusercontent.com/59617133/153758689-58590a61-d7a2-4143-
 
 ## UI Screens
 
-* Part-1
+### * Part-1
 ![image](https://user-images.githubusercontent.com/59617133/153759192-1540700a-d501-4248-aed9-49cf1340f07b.png)
-
-* Part-2
+-----------------------------------------------------------------------------------------------------------------
+### * Part-2
 ![image](https://user-images.githubusercontent.com/59617133/153759238-b9cfd79e-9681-4524-adfa-1c5cb1fb89b1.png)
-
-* Part-3
+-----------------------------------------------------------------------------------------------------------------
+### * Part-3
 ![image](https://user-images.githubusercontent.com/59617133/153759252-4bbde8b5-27b3-4fbd-9c14-3fcab3a8786e.png)
 
 
