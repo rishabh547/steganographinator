@@ -58,7 +58,7 @@ https://user-images.githubusercontent.com/59617133/153758689-58590a61-d7a2-4143-
 
 
 ##  TechStack : Streamlit
-Streamlit is an open source app framework in Python language,it helps us create web apps for data science and machine learning in a short time.
+**Streamlit is an open source app framework in Python language and it helps us create web apps for data science and machine learning in a short time.**
 
 ## Contributors
  * Burhanuddin Rangwala - 1911109
