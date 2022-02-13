@@ -48,7 +48,7 @@ https://user-images.githubusercontent.com/59617133/153758689-58590a61-d7a2-4143-
 </br>
 
 ### Part-2
-![image](https://user-images.githubusercontent.com/59617133/153759238-b9cfd79e-9681-4524-adfa-1c5cb1fb89b1.png).
+![image](https://user-images.githubusercontent.com/59617133/153759238-b9cfd79e-9681-4524-adfa-1c5cb1fb89b1.png)
 
 </br>
 
